@@ -1,0 +1,13 @@
+body {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    box-sizing: border-box; /* Include padding and border in element's width and height */
+    font-family: Arial, sans-serif; /* Set a clean, readable default font */
+    line-height: 1.6; /* Improve readability with consistent line spacing */
+    background-color: #f4f4f4; /* Neutral background color */
+    color: #333; /* Default text color for readability */
+}
+.test {
+    position: absolute;
+    right: 11.2rem;
+}
